@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-sefdsfdsfds",
+      "author": "typicode"
+    },
+    {
+      "title": "hahahahaha",
+      "body": "syimyk mitalipov",
+      "id": 2
+    },
+    {
+      "title": "syimyk",
+      "body": "how t",
+      "id": 3
+    },
+    {
+      "title": "ssfdsf",
+      "body": "ssfdsf",
+      "id": 4
+    },
+    {
+      "title": "sfsf",
+      "body": "sfsf",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

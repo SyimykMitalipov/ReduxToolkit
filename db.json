@@ -1,0 +1,15 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-sefdsfdsfds", "author": "typicode" },
+      { "id": 2 ,"title": "jfdsfds", "author": "tsfwfdsfdsde" },
+
+      { "id": 3, "title": "jsodsfsf", "author": "typicfdwfdfdsfsdode" },
+
+      { "id": 4, "title": "json-fdfdssf", "author": "typfdsfsdfsfsicode" }
+
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
